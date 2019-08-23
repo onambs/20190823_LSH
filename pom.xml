@@ -36,6 +36,6 @@
 	
   </dependencies>
   <build>
-    <finalName>hdfs-test</finalName>
+    <finalName>20190823_LSH</finalName>
   </build>
 </project>

@@ -41,7 +41,7 @@ public class Hadoop {
 		System.out.println("Hadoop.run() >> Start");
 		resultMap = new HashMap<String, Object>();
 		int status = 0;
-		// Hadoop 시스템 접속 하기 위하여 확인 요청
+		// Hadoop 시스템 접속 1하기 위하여 확인 요청
 		if(init(fileName)) {
 			/**************************************************
 			 * >> 상태값 설정 << 
