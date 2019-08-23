@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>2019-08-20</title>
+		<title>2019-08-23-LSH</title>
 		<style>
 			h2, h4, li {text-align: center;}
 			ul {list-style: none; padding-left: 0; padding: 0 10%;}

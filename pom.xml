@@ -5,7 +5,7 @@
   <artifactId>hdfs-test</artifactId>
   <packaging>war</packaging>
   <version>1</version>
-  <name>20190820_TEST</name>
+  <name>20190823_LSH</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     
